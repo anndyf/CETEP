@@ -1,13 +1,12 @@
-# MATERIAL REFENTE AS TURMAS 3TIM1/3TIM2/3TIM3/3TIM4
+# 📌 Material Referente às Turmas 3TIM1/3TIM2/3TIM3/3TIM4
 
-#INTERNET PROGRAMAÇÃO WEB
-  I UNIDADE
-    - HTML
-    - CSS
-    
-#LINGUAGEM DE PROGRAMAÇÃO
-  I UNIDADE
-    - ESTRUTURAS CONDICIONAIS
-    - ESTRUTURAS DE REPETIÇÃO
-    - LISTAS
-  
+## 🌐 Internet e Programação Web
+### 📌 I Unidade
+- HTML
+- CSS
+
+## 🖥️ Linguagem de Programação
+### 📌 I Unidade
+- Estruturas Condicionais
+- Estruturas de Repetição
+- Listas
