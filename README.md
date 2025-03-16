@@ -43,7 +43,7 @@ Clique no link da sua turma para acessar os materiais específicos:
 
 Aqui estão alguns vídeos tutoriais recomendados para reforçar os conceitos fundamentais da programação:  
 
-🔹 [**HTML e CSS Básico:**]([https://www.youtube.com/watch?v=G3e-cpL7ofc](https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=924s)  [ e CSS](https://www.youtube.com/watch?v=AB35iSr1YyA)  
+🔹 [**HTML e CSS Básico:**](https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=924s)  [ e CSS](https://www.youtube.com/watch?v=AB35iSr1YyA)  
 🔹 [**Lógica de Programação:**](https://youtu.be/8mei6uVttho?si=KLCdpRK0zLOs0715)  
 🔹 [**Python para Iniciantes:**]([https://youtu.be/S9uPNppGsGo?si=5iPKlB7Tm1Neu5tm](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg))  
 🔹 [**Estruturas de Repetição e Condicionais**](https://www.youtube.com/watch?v=K10u3XIf1-Q&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg&index=36)  
