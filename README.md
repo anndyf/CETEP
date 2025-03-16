@@ -47,7 +47,7 @@ Aqui estão alguns vídeos tutoriais recomendados para reforçar os conceitos fu
 🔹 **Lógica de Programação:** [Introdução à Lógica de Programação](https://youtu.be/8mei6uVttho?si=KLCdpRK0zLOs0715)  
 🔹 **Python para Iniciantes:** [Python do Zero]([https://youtu.be/S9uPNppGsGo?si=5iPKlB7Tm1Neu5tm](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg))  
 🔹 **Estruturas de Repetição e Condicionais:** [Comandos IF e Laços de Repetição](https://www.youtube.com/watch?v=K10u3XIf1-Q&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg&index=36)  
-
+🔹 **Como usar o VSCODE:** [Como usar o VSCODE](https://www.youtube.com/watch?v=pkH6XxH57O8)  
 ---
 
 ## 🛠️ Instruções de Uso  
