@@ -8,14 +8,15 @@ Este repositório tem como objetivo organizar e disponibilizar materiais e ativi
 
 ## Organização do Repositório
 
+**Assuntos da I UNIDADE**
 - **Internet e Programação Web**
-  - [HTML](https://github.com/anndyf/3TIM/tree/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/I%20Unidade/HTML)
-  - [CSS](https://github.com/anndyf/3TIM/tree/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/I%20Unidade/CSS)
+  - [HTML](https://github.com/anndyf/3TIM/blob/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/2-HTML.pdf)
+  - [CSS](http://github.com/anndyf/3TIM/blob/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/4-CSS.pdf)
 
 - **Linguagem de Programação**
-  - [Estruturas Condicionais](https://github.com/anndyf/3TIM/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/I%20Unidade/Estruturas%20Condicionais)
-  - [Estruturas de Repetição](https://github.com/anndyf/3TIM/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/I%20Unidade/Estruturas%20de%20Repeti%C3%A7%C3%A3o)
-  - [Listas](https://github.com/anndyf/3TIM/tree/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/I%20Unidade/Listas)
+  - [Estruturas Condicionais](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula03.pdf)
+  - [Estruturas de Repetição](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula04.pdf)
+  - [Listas](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula05.pdf)
 
 ## Instruções de Uso
 
