@@ -45,8 +45,8 @@ Aqui estão alguns vídeos tutoriais recomendados para reforçar os conceitos fu
 
 🔹 [**HTML e CSS Básico:**](https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=924s)  [>>>>> CSS <<<<<](https://www.youtube.com/watch?v=AB35iSr1YyA)  
 🔹 [**Lógica de Programação:**](https://youtu.be/8mei6uVttho?si=KLCdpRK0zLOs0715)  
-🔹 [**Python para Iniciantes:**](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg) 
-🔹 [**Estruturas de Repetição e Condicionais**](https://www.youtube.com/watch?v=K10u3XIf1-Q&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg&index=36)  
+🔹 [**Python para Iniciantes:**](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg)
+🔹 [**Estruturas Condicionais**](https://www.youtube.com/watch?v=K10u3XIf1-Q&list=PLIbmlYZ19yU4tmcsZnvBS038l-DDlNiQg&index=36)  
 🔹 [**Como usar o VSCODE**](https://www.youtube.com/watch?v=pkH6XxH57O8)  
 ---
 
