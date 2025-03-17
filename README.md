@@ -39,13 +39,13 @@ Clique no link da sua turma para acessar os materiais específicos:
 
 ---
 
-## 🎥 **Conhecimentos Necessários para Programação**  
+## 🎥 **Conhecimentos Necessários para Programação - Vídeos**  
 
 Aqui estão alguns vídeos tutoriais recomendados para reforçar os conceitos fundamentais da programação:  
 
 ### 🌐 **Desenvolvimento Web**  
-🔹 [**HTML e CSS Básico**](https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=924s)  
-🔹 [**CSS Avançado**](https://www.youtube.com/watch?v=AB35iSr1YyA)  
+🔹 [**HTML**](https://www.youtube.com/watch?v=Fhy-5CtVkiM&t=924s)  
+🔹 [**CSS **](https://www.youtube.com/watch?v=AB35iSr1YyA)  
 
 ### 💡 **Lógica de Programação**  
 🔹 [**Introdução à Lógica de Programação**](https://youtu.be/8mei6uVttho?si=KLCdpRK0zLOs0715)  
