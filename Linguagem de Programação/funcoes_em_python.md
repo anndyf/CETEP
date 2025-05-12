@@ -9,7 +9,6 @@ As **funções** são blocos de código reutilizáveis que executam uma tarefa e
 
 ```python
 def nome_da_funcao(param1, param2):
-    """Docstring: Explica o que a função faz."""
     # bloco de código
     return resultado
 ```
@@ -24,7 +23,6 @@ def nome_da_funcao(param1, param2):
 | `nome_da_funcao` | Nome que identifica a função (deve seguir as regras de nomes em Python)  |
 | `param1, param2` | Parâmetros (opcionais) que a função pode receber                         |
 | `return`         | (opcional) Indica o valor que a função devolve                          |
-| `docstring`      | (opcional) Texto explicativo entre aspas triplas                        |
 
 ---
 
@@ -32,7 +30,6 @@ def nome_da_funcao(param1, param2):
 
 ```python
 def somar(a, b):
-    """Retorna a soma de dois números."""
     return a + b
 
 resultado = somar(5, 3)
@@ -45,7 +42,6 @@ print("Resultado:", resultado)  # Resultado: 8
 
 ```python
 def calcular_area_retangulo(base, altura):
-    """Calcula a área de um retângulo."""
     area = base * altura
     return area
 
