@@ -83,7 +83,32 @@ print(f"{nome} tem {idade} anos e {altura}m de altura.")
 ```
 
 ---
+## ➕ Operadores Aritméticos
 
+| Operador | Significado            | Exemplo    | Resultado |
+|----------|------------------------|------------|-----------|
+| `+`      | Soma                   | `2 + 3`    | `5`       |
+| `-`      | Subtração              | `7 - 4`    | `3`       |
+| `*`      | Multiplicação          | `3 * 2`    | `6`       |
+| `/`      | Divisão (float)        | `5 / 2`    | `2.5`     |
+| `//`     | Divisão inteira        | `5 // 2`   | `2`       |
+| `%`      | Resto da divisão       | `5 % 2`    | `1`       |
+| `**`     | Potência               | `2 ** 3`   | `8`       |
+
+---
+
+## 🔁 Operadores de Comparação
+
+| Operador | Significado           | Exemplo     | Resultado |
+|----------|-----------------------|-------------|-----------|
+| `==`     | Igual                 | `3 == 3`    | `True`    |
+| `!=`     | Diferente             | `4 != 5`    | `True`    |
+| `>`      | Maior que             | `5 > 2`     | `True`    |
+| `<`      | Menor que             | `3 < 1`     | `False`   |
+| `>=`     | Maior ou igual        | `4 >= 4`    | `True`    |
+| `<=`     | Menor ou igual        | `6 <= 3`    | `False`   |
+
+---
 ## 🧠 Boas Práticas
 
 - Use `f-strings` para formatar mensagens com variáveis.
