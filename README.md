@@ -22,9 +22,8 @@ Este espaço reúne materiais de estudo, atividades e recursos complementares pa
 - 🎨 [CSS](https://github.com/anndyf/3TIM/blob/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/4-CSS.pdf)  
 
 #### 💻 **Linguagem de Programação**  
-- 📜 [Funções]([https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula08.pdf])
+- 📜 [Funções](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula08.pdf)
 
----
 
 ## 🏫 Acesso por Turma  
 
