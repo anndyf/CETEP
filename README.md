@@ -15,16 +15,14 @@ Este espaço reúne materiais de estudo, atividades e recursos complementares pa
 
 ## 📂 Organização do Repositório  
 
-### 📌 Assuntos da I UNIDADE  
+### 📌 Assuntos da II UNIDADE  
 
 #### 🌐 **Internet e Programação Web**  
 - 📄 [HTML](https://github.com/anndyf/3TIM/blob/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/2-HTML.pdf)  
 - 🎨 [CSS](https://github.com/anndyf/3TIM/blob/main/Internet%20e%20Programa%C3%A7%C3%A3o%20Web/4-CSS.pdf)  
 
 #### 💻 **Linguagem de Programação**  
-- 🔄 [Estruturas Condicionais](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula03.pdf)  
-- 🔁 [Estruturas de Repetição](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula04.pdf)  
-- 📜 [Listas](https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula05.pdf)  
+- 📜 [Funções]([https://github.com/anndyf/3TIM/blob/main/Linguagem%20de%20Programa%C3%A7%C3%A3o/aula08.pdf]
 
 ---
 
