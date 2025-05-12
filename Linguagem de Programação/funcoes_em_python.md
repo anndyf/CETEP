@@ -96,7 +96,6 @@ mostrar_info(nome="Ana", idade=22)
 ## 🧠 Boas Práticas
 
 - Escolha nomes descritivos para suas funções
-- Use `docstrings` para documentar o que a função faz
 - Evite funções muito longas: separe tarefas em subfunções
 
 ---
