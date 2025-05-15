@@ -1,0 +1,2 @@
+- Criar a estrutura completa em HTML de um site sobre Python, incluindo um menu de navegação funcional.
+- Aplicar estilos com CSS externo, deixando o site visualmente organizado e moderno.
