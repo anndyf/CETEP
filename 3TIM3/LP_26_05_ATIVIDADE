@@ -1,0 +1,27 @@
+# II UNIDADE - FAZER NO CADERNO
+
+## Exercícios de Funções e Listas em Python - 2
+
+---
+
+### Questão 1 – Soma e multiplicação de três números
+
+Crie uma função chamada `soma_multiplicacao` que receba três números como parâmetros e **retorne dois valores**:
+
+- A **soma** dos três números.
+- A **multiplicação** dos três números.
+
+Em seguida, chame a função e imprima os dois resultados.
+
+---
+
+### Questão 2 – Valor mais próximo da média
+
+Crie um programa que percorra uma lista de números e exiba na tela o **valor mais próximo da média** dos valores da lista.
+
+**Exemplo:**
+
+```python
+lista = [2.5, 7.5, 10.0, 4.0]
+# Média = 6.0
+# Valor mais próximo da média = 7.5
