@@ -3,10 +3,15 @@
 📅 **Entrega:** até **25/07**  
 📍 **Formato de Entrega:** via **GitHub Pages** (site publicado) + link do repositório
 
+---
 
 ## 🎯 Descrição
 
 Você já estruturou um site com HTML e aplicou estilizações com CSS externo. Agora é hora de **avaliar criticamente seu projeto e aplicar melhorias visuais e estruturais**, com base nos conceitos de **design**, **responsividade** e **teoria das cores**.
+
+A estilização deve respeitar e se alinhar ao conjunto de **cores previamente definidas na disciplina de Programação Visual**, garantindo coerência estética com a identidade proposta no projeto.
+
+---
 
 ## ✨ Desafios de Melhoria – CSS e Design Visual
 
@@ -18,6 +23,7 @@ Reflita sobre as cores utilizadas em seu site.
 
 > 🔧 **Tarefa:** Proponha ajustes que tragam mais coerência visual, acessibilidade e impacto. Justifique suas escolhas.
 
+---
 
 ### 2. 🖼️ Aprimoramento Estético do Layout
 
@@ -25,6 +31,7 @@ Avalie o visual geral do site: fundo, textos, menu, seções e rodapé.
 
 > 🔧 **Tarefa:** Aplique melhorias que tornem a experiência do usuário mais agradável e moderna. Considere **harmonia, contraste, legibilidade e consistência**.
 
+---
 
 ### 3. 📱 Adaptação para Diferentes Telas
 
@@ -32,6 +39,7 @@ Pense em como seu site se comporta em dispositivos menores (celulares, tablets).
 
 > 🔧 **Tarefa:** Identifique ao menos um ponto que precisa ser ajustado para melhorar a **responsividade** e implemente essa melhoria.
 
+---
 
 ## 📦 Entregáveis
 
@@ -41,6 +49,8 @@ Pense em como seu site se comporta em dispositivos menores (celulares, tablets).
   - As mudanças de cores realizadas e sua justificativa
   - As melhorias aplicadas ao layout
   - O ponto de responsividade corrigido
+
+---
 
 ## 🚀 Como Publicar seu Site no GitHub Pages
 
@@ -55,15 +65,19 @@ Pense em como seu site se comporta em dispositivos menores (celulares, tablets).
 6. Após alguns segundos, será exibido o link do seu site no formato:  
    `https://seu-usuario.github.io/nome-do-repositorio`
 
+---
 
 ### 🎥 Tutorial em vídeo
 
 📺 Assista ao vídeo com o passo a passo completo:  
 👉 [Como publicar seu site no GitHub Pages (YouTube)](https://www.youtube.com/watch?v=SKXkC4SqtRk)
 
+---
 
 ## 📣 Importante
 
 - O site precisa estar **funcionando corretamente** online.
 - O link final deve ser entregue via formulário ou comentário no ambiente de aula.
-- Lembre-se de escrever a justificativa com clareza, demonstrando aplicação dos conceitos de **design** e **teoria das cores**.
+- A justificativa escrita deve demonstrar aplicação dos conceitos de **design**, **responsividade** e **teoria das cores** — em conformidade com as definições da disciplina de **Programação Visual**.
+
+---
