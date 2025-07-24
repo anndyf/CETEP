@@ -30,17 +30,17 @@ Desenvolver um site completo, com foco em navegação por menu e aplicação de 
 
 ## 💻 Linguagem de Programação
 
-### 🧪 Avaliação 1 – Teste Prático Individual
+### 🧪 Avaliação 1 – Teste Prático Individual - 3,0
 
 **Formato:**  
 - Teste com exercícios práticos para resolver no computador.
 - Cada aluno executará os códigos e submeterá os arquivos para correção.
 
-**Data prevista:** _[definir data]_
+**Data prevista:** _11/08_
 
 ---
 
-### 💡 Avaliação 2 – Hackathon Simulado
+### 💡 Avaliação 2 – Hackathon Simulado - 2,0
 
 **Dinâmica:**
 - Formação de grupos de 3 a 4 estudantes.
@@ -53,7 +53,7 @@ Desenvolver um site completo, com foco em navegação por menu e aplicação de 
 - Criatividade da solução.
 - Participação da equipe.
 
-**Período de realização:** _[definir semana ou datas]_
+**Período de realização:** _31/07_
 
 ---
 
