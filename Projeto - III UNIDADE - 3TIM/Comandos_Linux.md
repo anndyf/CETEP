@@ -112,5 +112,3 @@ Mostra a lista dos últimos comandos executados.
 - `Tab` → autocompleta nomes de arquivos e pastas.
 
 ---
-
-✅ Esses comandos são a base para navegar no Linux com eficiência!
